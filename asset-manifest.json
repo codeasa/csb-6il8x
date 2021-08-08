@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://codeasa.github.io/csb-6il8x/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://codeasa.github.io/csb-6il8x/static/js/main.cb435ecf.chunk.js",
+    "main.js.map": "https://codeasa.github.io/csb-6il8x/static/js/main.cb435ecf.chunk.js.map",
+    "runtime-main.js": "https://codeasa.github.io/csb-6il8x/static/js/runtime-main.6501a801.js",
+    "runtime-main.js.map": "https://codeasa.github.io/csb-6il8x/static/js/runtime-main.6501a801.js.map",
+    "static/js/2.02ec896c.chunk.js": "https://codeasa.github.io/csb-6il8x/static/js/2.02ec896c.chunk.js",
+    "static/js/2.02ec896c.chunk.js.map": "https://codeasa.github.io/csb-6il8x/static/js/2.02ec896c.chunk.js.map",
+    "index.html": "https://codeasa.github.io/csb-6il8x/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://codeasa.github.io/csb-6il8x/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.02ec896c.chunk.js.LICENSE.txt": "https://codeasa.github.io/csb-6il8x/static/js/2.02ec896c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6501a801.js",
+    "static/js/2.02ec896c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cb435ecf.chunk.js"
+  ]
+}
